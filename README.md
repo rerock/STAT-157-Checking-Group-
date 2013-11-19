@@ -39,16 +39,16 @@ Group Project Timeline
 ===================
 November 19
 -------
-1)	We need to plan our new goals according to the project timeline as we have just formed the group 
+- Plan our new goals according to the project timeline as we have just formed the group 
 after the [data curation](https://github.com/stat157/data-curators/commits/master) process. 
-2)	Communicate with analyzer and visualizer groups, check into their repos, 
+- Communicate with analyzer and visualizer groups, check into their repos, 
 find out the things they have accomplished and overlook every group’s approximate project timeline and 
 plan our goals according to their timeline. 
 
 November 21
 ---------
-1)	Perform code review on any drafts that are completed 
-2)	Start attempting to Call to R from ipynb and to check the reproducibility of Quakers'R code on 
+- Perform code review on any drafts that are completed 
+- Start attempting to Call to R from ipynb and to check the reproducibility of Quakers'R code on 
 [error diagrams](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/mda_test.r)
 of testing u from 4.7 to 6 based off
 [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R). 
@@ -56,8 +56,8 @@ Our
 
 November 26
 --------
-1)	Successfully have a python code base that can call other group's R file
-2)	Continue code review on 
+- Successfully have a python code base that can call other group's R file
+- Continue code review on the groups have finished part of their tasks
 
 November 28
 -------
