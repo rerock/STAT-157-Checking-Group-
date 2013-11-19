@@ -23,12 +23,12 @@ for different part of the project.
 
 Road Blocks
 ------
-(11-18-19) It is difficult to plan ahead of time our schedule since we just start this group task and many groups have not 
+(11-18-13) It is difficult to plan ahead of time our schedule since we just start this group task and many groups have not 
 started/finished any of their work. 
 
 Solutions
 -----
-(11-18-19) We tried to look through the group evaluations and their repos. We found out the Quakers have finished 
+(11-18-13) We tried to look through the group evaluations and their repos. We found out the Quakers have finished 
 their R code on [error diagrams](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/mda_test.r)
 of testing u from 4.7 to 6 based off
 [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R). 
@@ -57,7 +57,8 @@ Our
 November 26
 --------
 - Successfully have a python code base that can call other group's R file
-- Continue code review on the groups have finished part of their tasks
+- Continue code review on the groups have finished part of their tasks and re-test our python code base 
+
 
 November 28
 -------
