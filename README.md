@@ -10,6 +10,20 @@ Members Status:
 |                     <a href="https://github.com/kimberlyle"> Kimberly Le</a> (kimberlyle) | kimberly_le@berkeley.edu |
 | <a href="https://github.com/arifyali">Arif Ali</a> (arifyali) | arifyali@berkeley.edu |
 
+File Descriptions
+--------
+For Mac
+=======
+If `x11()` `plot(1,1)` runs in your R studio, then `install.packages("sfsmisc")`, `library("sfsmisc")`
+- Download & Install package ["Xquartz"](http://xquartz.macosforge.org/landing/)
+- In your terminal 'git clone https://github.com/wliang88/STAT-157-Checking-Group-'
+- `cd STAT-157-Checking-Group-`
+- `export DISPLAY=:0`
+- `python main.py`
+
+If `x11()` `plot(1,1)` runs in your R studio,
+- 
+
 Group Project goal
 --------
 Our overall group goal is to check the reproducibility of other groups work on the project. 
@@ -52,7 +66,7 @@ November 21
 [error diagrams](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/mda_test.r)
 of testing u from 4.7 to 6 based off
 [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R). 
-Our
+
 
 November 26
 --------
