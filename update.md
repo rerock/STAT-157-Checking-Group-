@@ -1,3 +1,3 @@
-Arif Ali
+Various links to different GitHub pages
 ===========
-this is a text file indicating the needs of various groups. Can we used this file as a
+This is a MD file indicating the needs of various groups. Can we used this file as a way to keep track.
