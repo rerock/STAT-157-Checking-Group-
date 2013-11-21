@@ -51,6 +51,8 @@ Road Blocks
 ------
 (11-18-13) It is difficult to plan ahead of time our schedule since we just start this group task and many groups have not 
 started/finished any of their work. 
+(11-21-13) It is difficult to keep in track with every groups process. We went throught group evaluations and repos, but not every group has
+done something that we can check in and not everything is planned as scheduled. 
 
 Solutions
 -----
@@ -60,10 +62,11 @@ of testing u from 4.7 to 6 based off
 [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R). 
 Our immediate SMART goal for this 
 week is to start attempting to call R from ipynb and to check the reproducibility of the Quaker’s code. 
+(11-21-13) Talked with Kristina, hope to have a point of contact from each group. 
 
 Group Project Timeline 
 ===================
-November 19
+November 19 
 -------
 - Plan our new goals according to the project timeline as we have just formed the group 
 after the [data curation](https://github.com/stat157/data-curators/commits/master) process. 
@@ -71,7 +74,9 @@ after the [data curation](https://github.com/stat157/data-curators/commits/maste
 find out the things they have accomplished and overlook every group’s approximate project timeline and 
 plan our goals according to their timeline. 
 
-November 21
+*Completed*
+
+November 21 
 ---------
 - Perform code review on any drafts that are completed 
 - Start attempting to Call to R from ipynb and to check the reproducibility of Quakers'R code on 
@@ -79,11 +84,17 @@ November 21
 of testing u from 4.7 to 6 based off
 [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R). 
 
+*Completed, please see the file descriptions for main.py. We now have python code base that can call Quakers' R code on [error diagrams](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/mda_test.r)
+of testing u from 4.7 to 6 based off [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R).* 
 
 November 26
 --------
 - Successfully have a python code base that can call other group's R file
 - Continue code review on the groups have finished part of their tasks and re-test our python code base 
+  - Check whether we can run `aftershock_arrival_plots.ipynb` & `mda_with_curator_data.ipynb` from the [analyzers group](https://github.com/stat157/analyzers/tree/master/notebooks)
+  - Check whether the python code base can also be called on the [plotting successors.R file](http://github.com/SunnySunnia/TheQuakers/tree/master/Successors) from the Quakers. 
+
+
 
 
 November 28
