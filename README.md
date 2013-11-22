@@ -64,7 +64,10 @@ of testing u from 4.7 to 6 based off
 Our immediate SMART goal for this 
 week is to start attempting to call R from ipynb and to check the reproducibility of the Quaker’s code.
 
-(11-21-13) Talked with Kristina, hope to have a point of contact from each group. 
+(11-21-13) Talked with Kristina, hope to have a point of contact from each group. Meantime, we will
+  - Check whether we can run `aftershock_arrival_plots.ipynb` & `mda_with_curator_data.ipynb` from the [analyzers group](https://github.com/stat157/analyzers/tree/master/notebooks)
+  - Check whether the python code base can also be called on the [plotting successors.R file](http://github.com/SunnySunnia/TheQuakers/tree/master/Successors) from the Quakers. 
+
 
 Group Project Timeline 
 ===================
