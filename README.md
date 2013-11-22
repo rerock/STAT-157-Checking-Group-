@@ -51,6 +51,7 @@ Road Blocks
 ------
 (11-18-13) It is difficult to plan ahead of time our schedule since we just start this group task and many groups have not 
 started/finished any of their work. 
+
 (11-21-13) It is difficult to keep in track with every groups process. We went throught group evaluations and repos, but not every group has
 done something that we can check in and not everything is planned as scheduled. 
 
@@ -61,7 +62,8 @@ their R code on [error diagrams](https://github.com/SunnySunnia/TheQuakers/blob/
 of testing u from 4.7 to 6 based off
 [Luen’s code](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R). 
 Our immediate SMART goal for this 
-week is to start attempting to call R from ipynb and to check the reproducibility of the Quaker’s code. 
+week is to start attempting to call R from ipynb and to check the reproducibility of the Quaker’s code.
+
 (11-21-13) Talked with Kristina, hope to have a point of contact from each group. 
 
 Group Project Timeline 
