@@ -28,9 +28,11 @@ If `x11()` `plot(1,1)` runs in your R studio, then `install.packages("sfsmisc")`
 
 If `x11()` `plot(1,1)` doesn't runs in your R studio
 - Download & Install package ["Xquartz"](http://xquartz.macosforge.org/landing/)
-- Open the "Terminal" under "Application" in "Xquartz" 
+- Open the "Terminal" under "Application" in "Xquartz"
+- open up R
 - `install.packages("sfsmisc")`
 - `library("sfsmisc")`
+- exit R
 - `git clone https://github.com/wliang88/STAT-157-Checking-Group-`
 - `cd STAT-157-Checking-Group-`
 - `python main.py`
