@@ -1,4 +1,4 @@
-As of 2013-11-23
+*As of 2013-11-23*
 
 - [**Group 1 & 3**](http://github.com/aparker92/error_analyzers) *We can't check in yet but their deadline is 11/25*
   - Refactor [Luen's code](https://github.com/aparker92/error_analyzers/blob/master/etas-training.R) to generate an error diagram given a dataset and a model; code includes includig both etas testing and MDA testing codes Luen used for his paper.
@@ -20,6 +20,7 @@ As of 2013-11-23
   
 - [**Group #**](https://github.com/ashleysia/TeamHASHTAG): *We can't check in yet*
   - Looking at various D3 visualizations and figuring out what type of interactive plot/graph/visual
+  - Visualizing data geographicly in [python](https://github.com/ashleysia/TeamHASHTAG/blob/master/Plot%20Raw.py): Not sure how this work is going to help us, but communicating with them [here](https://github.com/ashleysia/TeamHASHTAG/issues/7).
 
 - [**Group $**](https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Hsiao.Kirschner.Liou.Tsai): *We can't check in yet*
   - Using D3 for Visuals: Research and learn how to employ D3 to create a dynamic visualization for the data
