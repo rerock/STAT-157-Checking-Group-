@@ -1,0 +1,36 @@
+Data Overview: 
+http://nbviewer.ipython.org/github/ashleysia/TeamHASHTAG/blob/master/Plot%20Raw.ipynb
+
+ETAS model: 
+https://docs.google.com/file/d/0B8VtpZW-kBpVNjJxMk1HaUtPczQ/edit 
+
+Luen’s model:   https://docs.google.com/file/d/0B8VtpZW-kBpVNjJxMk1HaUtPczQ/edit 
+
+w(M) = kuM
+w(M) is the alarm magnitude for an earthquake of magnitude M
+u is a free parameter that is chosen at the optimal value for the smallest error
+k determines the sensitivity of the model
+
+
+Empirical Modeling (Quantile Method): doesn’t beat Luen’s model nor use Luen’s code 
+Code:
+https://github.com/SunnySunnia/TheQuakers/blob/master/Quantile-Method/Quantile-Presentation.R
+Input:
+DataFrame
+
+Out put
+https://github.com/SunnySunnia/TheQuakers/blob/master/Quantile-Method/90Percentile.jpeg
+The graph above shows the 90th percentiles of successors for earthquakes of a given magnitude. 90% of the time there is a magnitude x earthquake, the first successor will occur within y days. We decided to look at these empirical percentiles to decide the length of an alarm.
+https://github.com/SunnySunnia/TheQuakers/blob/master/Quantile-Method/ErrorIncrPercetile.jpeg
+We found that the area under the curve is .258066. While intuitive, the error is larger in comparison to Luen’s model which shows that this model did not successfully beat the ETAS model. However, in the future, we would like to explore multiple successors and different magnitude thresholds.
+MDA:
+Input:
+DataFrame
+code:
+https://github.com/SunnySunnia/TheQuakers/blob/master/ScaledMDA/ScaledMDA-Presentation.R
+output:
+Scaling by Subtraction:
+https://github.com/SunnySunnia/TheQuakers/blob/master/ScaledMDA/ErrorSMDADiv.jpeg
+Scaling by Subtraction:
+https://github.com/SunnySunnia/TheQuakers/blob/master/ScaledMDA/ErrorSMDAsub.jpeg
+
